@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # ─── Header ───────────────────────────────────────────────────
-st.title("🎓 Student Guidance AI")
+st.title("🎓 Student Guidance AI created by PRASAD")
 st.caption(
     "Your 24/7 AI counselor for learning paths, "
     "placement preparation, and career guidance."
